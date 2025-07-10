@@ -1,0 +1,29 @@
+Requirements.txt for Backend:
+---------------
+
+* Python 3.8+
+* Django 2.2+
+* Django REST framework 3.11+
+* Django CORS headers 3.4+
+* Python requests library 2.25+
+* PyJWT 1.7.1+
+* Passlib 1.7.1+
+* Pillow 8.0.1+
+* psycopg2-binary 2.8.6+ (for PostgreSQL database)
+
+Requirements.txt for Frontend:
+-----------------
+
+* React 17.0.2+
+* React Router 5.2.0+
+* Axios 0.21.1+
+* Redux 4.0.5+
+* Redux Thunk 2.3.0+
+* React Bootstrap 5.0.0-beta.4+
+* Font Awesome 5.15.1+
+* jQuery 3.6.0+
+* Popper.js 1.16.1+
+* Moment.js 2.29.1+
+* Lodash 4.17.15+
+
+Note: These are just examples and you may need to adjust the versions based on your specific requirements.
